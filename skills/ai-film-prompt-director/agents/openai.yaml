@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI 影视提示词导演"
+  short_description: "审核真人影视提示词、角色一致性与生成失败原因"
+  default_prompt: "使用 $ai-film-prompt-director 审核并优化我的真人影视提示词。"
+policy:
+  allow_implicit_invocation: true

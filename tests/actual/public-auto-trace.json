@@ -1,0 +1,29 @@
+[
+  {
+    "type": "session_started"
+  },
+  {
+    "type": "skill_reference_read",
+    "references": [
+      "SKILL.md"
+    ],
+    "exit_code": 0
+  },
+  {
+    "type": "skill_reference_read",
+    "references": [
+      "director-methods.md"
+    ],
+    "exit_code": 0
+  },
+  {
+    "type": "skill_reference_read",
+    "references": [
+      "quality.md"
+    ],
+    "exit_code": 0
+  },
+  {
+    "type": "completed"
+  }
+]
